@@ -29,6 +29,10 @@ body {
 h2 {color: crimson;
     text-align: center;
 }
-#about { text-align: center;}
+#about { text-align: center;
+          margin-top: 60;}
 #company { text-align: center; font-size: xx-large;}
 .nav {font-weight: bold;}
+
+
+
