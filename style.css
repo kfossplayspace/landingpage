@@ -3,6 +3,7 @@ body {
     background-color: #f4f4f4;
     color: #333;
     align-items: center;
+    margin: 0%;
 }
 .logo img {
     max-width: 50%;
